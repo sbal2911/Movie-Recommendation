@@ -1,6 +1,6 @@
 **Movie Recommendation**
 
-**A short project on Movie Recommendation System**
+**A short project on Movie Recommendation System for Data Mining**
 
 The project involves building a recommendation system using the MovieLens dataset, which includes user ratings, 
 movie metadata, and demographic info. It starts with data cleaning and merging, followed by two main recommendation approaches: 
